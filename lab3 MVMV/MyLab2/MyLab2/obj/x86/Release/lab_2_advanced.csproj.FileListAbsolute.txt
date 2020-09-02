@@ -1,0 +1,8 @@
+C:\Users\Alex\source\repos\lab_2_advanced\lab_2_advanced\obj\x86\Release\lab_2_advanced.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\lab_2_advanced\lab_2_advanced\obj\x86\Release\MainWindow.g.cs
+C:\Users\Alex\source\repos\lab_2_advanced\lab_2_advanced\obj\x86\Release\App.g.cs
+C:\Users\Alex\source\repos\lab_2_advanced\lab_2_advanced\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\source\repos\lab_2_advanced\lab_2_advanced\obj\x86\Release\lab_2_advanced_MarkupCompile.cache
+C:\Users\Alex\source\repos\lab_2_advanced\lab_2_advanced\obj\x86\Release\lab_2_advanced_MarkupCompile.lref
+C:\Users\Alex\source\repos\lab_2_advanced\lab_2_advanced\obj\x86\Release\lab_2_advanced.exe
+C:\Users\Alex\source\repos\lab_2_advanced\lab_2_advanced\obj\x86\Release\lab_2_advanced.pdb
